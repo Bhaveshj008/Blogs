@@ -56,7 +56,7 @@ For those looking to elevate their design projects, the Figma Professional plan 
 * **Dev Mode**: Seamlessly bridge the gap between design and development.
     
 
-### [Sign Up for Figma Professional Plan](https://psxid.figma.com/z3lmk6rkt09s-ouafk)
+[Sign Up for Figma Professional Plan](https://psxid.figma.com/z3lmk6rkt09s-ouafk)
 
 ## Dive into Figma and FigJam
 
@@ -66,7 +66,7 @@ For those looking to elevate their design projects, the Figma Professional plan 
 
 Figma is the collaborative space where teams come together to design, test, and ship better products. It's an all-in-one platform that simplifies the design process, making it accessible and enjoyable.
 
-### [Sign Up for Figma Free Plan](https://psxid.figma.com/q481s334y5ma)
+[Sign Up for Figma Free Plan](https://psxid.figma.com/q481s334y5ma)
 
 ## FigJam
 
@@ -74,7 +74,7 @@ Figma is the collaborative space where teams come together to design, test, and 
 
 FigJam is the collaborative whiteboard space where teams can shape stronger solutions to tough problems. It turns possibilities into actionable plans, enhancing team collaboration and creativity.
 
-### [Explore FigJam](https://psxid.figma.com/0evi0e44xvkv-lpaypq)
+[Explore FigJam](https://psxid.figma.com/0evi0e44xvkv-lpaypq)
 
 ## Get Started with Figma Today
 
