@@ -4,7 +4,7 @@ seoTitle: "zod-fragments: TypeScript Validation Library That Cuts Zod Boilerplat
 seoDescription: "A TypeScript validation library built on Zod that cuts boilerplate by 50%. Features pre-built fragments and consistent error handling, npm package."
 datePublished: Fri Jul 25 2025 19:29:32 GMT+0000 (Coordinated Universal Time)
 cuid: cmdj7tj2f000k02l7gksd2vo6
-slug: zod-fragments-my-first-npm-package
+slug: zod-fragments
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753471119856/032f9e7d-b3cb-4018-baa5-19364ebf24c6.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1753471443781/fe20dd9b-90c8-4079-995a-0ba2500f5309.png
 tags: express, javascript, angularjs, react-native, nodejs, boilerplate, reactjs, typescript, validation, mern, form-validation, nextjs, nestjs, zod, zod-library
